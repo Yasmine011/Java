@@ -57,7 +57,7 @@ public class mod3hw {
 
 	int num = 10;
 			
-		if(num % 2 != 1) {
+		if(num % 2 == 1) {
 			System.out.println("Cool");
 		}
 		else if (num >=5){
